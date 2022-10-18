@@ -1,0 +1,15 @@
+angsuran 12539
+angsuran_bayar 11346
+bank_kpr 35
+berita_acara 9
+blok 240
+data_angsuran 8870
+det_kavling 6312
+det_kavling_copy 3622
+det_kavling_progres 2520
+file_upload 4491
+kavling 163
+pemesanan 1787
+sppr 5255
+tanda_terima_kwitansi 58
+tipe 47

@@ -1,0 +1,30 @@
+utk isi tgl real wajib notaris
+AJB
+
+perencanaan
+-kolom kelebiahn tanah pengaruh harga -> notif marketing
+
+nama pt
+1. akte pendirian perusahaan dan perubahannya nmomer dan pdf
+2. mengingatkan kalau mau habis.
+
+marketing - pemesanan
+1. syarat wajib ktp / npwp / bpjs kesehatan upload semua
+2. harga kelebihan tanah x tanah sisa
+
+sppr
+- wajib notaris
+- ajb
+
+rencana real
+- keluar yg yg belum real
+- notif ke legal, perencanaan (bangunan %), keungan
+
+legal
+- keterangan sertifikat 
+-keterangan imb
+
+
+laporan 
+-legal view data
+menampilkan apa yang diminta (atas notaris, ke bank mana, real dan blum real)
