@@ -1,2 +1,1 @@
-# coba
-wi snyobak ae
+ngene ae ribet
